@@ -1,4 +1,4 @@
-# SimpleNote-
+# SimpleNote+
 
 SimpleNote+ is a lightweight and user-friendly notepad application created using HTML, CSS, and JavaScript. It provides a clean and intuitive interface for taking quick notes and organizing your thoughts effortlessly.
 
