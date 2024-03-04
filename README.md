@@ -1,6 +1,6 @@
-# SimpleNote+
+# SimpleNote-
 
-SimpleNote+ is a lightweight and user-friendly notepad application created using HTML, CSS, and JavaScript. It provides a clean and intuitive interface for taking quick notes and organizing your thoughts effortlessly.
+SimpleNote- is a lightweight and user-friendly notepad application created using HTML, CSS, and JavaScript. It provides a clean and intuitive interface for taking quick notes and organizing your thoughts effortlessly.
 
 ## Features
 
@@ -24,4 +24,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note:** SimpleNote+ is a personal project created for educational purposes.
+**Note:** SimpleNote- is a personal project created for educational purposes.
