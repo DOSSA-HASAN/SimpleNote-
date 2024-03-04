@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    align-items: center;
+}
+
+img{
+    width: 70px;
+    height: auto;
+}
+
+#create_button img{
+    width: 30px;
+    height: auto;
+}
+
+#create_button button{
+    border: none;
+    background-color: blueviolet;
+    color: #fff;
+    font-size: 15px;
+    padding: 15px 30px;
+    border-radius: 9999px;
+}
+
+#note p{
+    width: 500px;
+    height: 250px;
+    background-color: aqua;
+}
+
+#note p:focus{
+    border: 1px solid gray;
+    outline: none;
+    
+}
+
+#note{
+    position: relative;
+    width: 500px;
+    margin: 20px 0;
+}
+
+#note img{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
